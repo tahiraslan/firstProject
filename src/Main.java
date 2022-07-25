@@ -34,6 +34,9 @@ public class Main {
         //Snake Case
         int GelenDeger=55;
 
+        //Underscore case
+        int gelen_deger=8;
+
 
 
 
