@@ -5,7 +5,9 @@ public class Main {
         System.out.print("Erhan Kaya ile Java Dersleri");
         System.out.print("İlk Ders");
 
-        //
+        //Değişkenler
+
+        String isim= "Tahir\nASLAN";
 
 
 
