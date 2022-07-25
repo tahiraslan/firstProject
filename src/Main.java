@@ -14,7 +14,7 @@ public class Main {
         short sayi3=155;
         long sayi4=1514; //-9223372036854775808
         double kesirli1=15;
-        float kesirli2=12.9f; //
+        float kesirli2=12.9f; //3.4E+-308
 
         boolean dogruyanlis=true; //false
 

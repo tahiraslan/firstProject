@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="982d9b46-1f0b-43a2-a19f-4e49d5a4359b" name="Changes" comment="tahir aslan">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="982d9b46-1f0b-43a2-a19f-4e49d5a4359b" name="Changes" comment="tahir aslan&#10;master">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658731804144</updated>
-      <workItem from="1658731812836" duration="2757000" />
+      <workItem from="1658731812836" duration="2874000" />
     </task>
     <task id="LOCAL-00001" summary="tahir aslan">
       <created>1658731877280</created>
@@ -114,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658733811840</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tahir aslan">
+      <created>1658734607942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658734607942</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tahir aslan&#10;master">
+      <created>1658734655815</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658734655815</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tahir aslan" />
-    <option name="LAST_COMMIT_MESSAGE" value="tahir aslan" />
+    <MESSAGE value="tahir aslan&#10;master" />
+    <option name="LAST_COMMIT_MESSAGE" value="tahir aslan&#10;master" />
   </component>
 </project>
