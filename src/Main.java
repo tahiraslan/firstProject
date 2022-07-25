@@ -18,6 +18,25 @@ public class Main {
 
         boolean dogruyanlis=true; //false
 
+        int _kullanici=5;
+        //case
+        //Lower case
+        int deger=5;
+
+        //Upper Case
+        int DEGER2=6;
+
+        //Camel Case
+        int gelenDeger=29;
+        int benimDogumTarihim=1990;
+
+
+        //Snake Case
+        int GelenDeger=55;
+
+
+
+
 
         System.out.println(isim);
 
