@@ -10,7 +10,7 @@ public class Main {
         String isim= "Tahir\nASLAN";
         char karakter='F';
         byte sayi2=2;
-        int sayi1=15;
+        int sayi1=15;//
         short sayi3=155;
         long sayi4=1514; //-9223372036854775808
         double kesirli1=15;
