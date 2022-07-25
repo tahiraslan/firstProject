@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="982d9b46-1f0b-43a2-a19f-4e49d5a4359b" name="Changes" comment="tahir aslan&#10;master">
+    <list default="true" id="982d9b46-1f0b-43a2-a19f-4e49d5a4359b" name="Changes" comment="master">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658731804144</updated>
-      <workItem from="1658731812836" duration="2874000" />
+      <workItem from="1658731812836" duration="3534000" />
     </task>
     <task id="LOCAL-00001" summary="tahir aslan">
       <created>1658731877280</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658734655815</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="master">
+      <created>1658734716293</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658734716293</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tahir aslan" />
     <MESSAGE value="tahir aslan&#10;master" />
-    <option name="LAST_COMMIT_MESSAGE" value="tahir aslan&#10;master" />
+    <MESSAGE value="master" />
+    <option name="LAST_COMMIT_MESSAGE" value="master" />
   </component>
 </project>
