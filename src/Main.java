@@ -8,6 +8,8 @@ public class Main {
         //Değişkenler
 
         String isim= "Tahir\nASLAN";
+        char karakter='F';
+        int sayi1=15;
 
 
 
